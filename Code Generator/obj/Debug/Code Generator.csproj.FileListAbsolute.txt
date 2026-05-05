@@ -1,0 +1,10 @@
+D:\شهادات كورسات محمد ابو هدهود\Code Generator\bin\Debug\Code Generator.exe.config
+D:\شهادات كورسات محمد ابو هدهود\Code Generator\bin\Debug\Code Generator.exe
+D:\شهادات كورسات محمد ابو هدهود\Code Generator\bin\Debug\Code Generator.pdb
+D:\شهادات كورسات محمد ابو هدهود\Code Generator\obj\Debug\Code Generator.csproj.AssemblyReference.cache
+D:\شهادات كورسات محمد ابو هدهود\Code Generator\obj\Debug\Code_Generator.Properties.Resources.resources
+D:\شهادات كورسات محمد ابو هدهود\Code Generator\obj\Debug\Code Generator.csproj.GenerateResource.cache
+D:\شهادات كورسات محمد ابو هدهود\Code Generator\obj\Debug\Code Generator.csproj.CoreCompileInputs.cache
+D:\شهادات كورسات محمد ابو هدهود\Code Generator\obj\Debug\Code Generator.exe
+D:\شهادات كورسات محمد ابو هدهود\Code Generator\obj\Debug\Code Generator.pdb
+D:\شهادات كورسات محمد ابو هدهود\Code Generator\obj\Debug\Code_Generator.frmCodeGenerator.resources

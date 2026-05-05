@@ -1,0 +1,15 @@
+D:\شهادات كورسات محمد ابو هدهود\Code Generator\simulation of Code Generator\bin\Debug\simulation of Code Generator.exe.config
+D:\شهادات كورسات محمد ابو هدهود\Code Generator\simulation of Code Generator\bin\Debug\simulation of Code Generator.exe
+D:\شهادات كورسات محمد ابو هدهود\Code Generator\simulation of Code Generator\bin\Debug\simulation of Code Generator.pdb
+D:\شهادات كورسات محمد ابو هدهود\Code Generator\simulation of Code Generator\bin\Debug\SCG_BusinessLayer.pdb
+D:\شهادات كورسات محمد ابو هدهود\Code Generator\simulation of Code Generator\obj\Debug\simulation of Code Generator.csproj.AssemblyReference.cache
+D:\شهادات كورسات محمد ابو هدهود\Code Generator\simulation of Code Generator\obj\Debug\simulation_of_Code_Generator.Form1.resources
+D:\شهادات كورسات محمد ابو هدهود\Code Generator\simulation of Code Generator\obj\Debug\simulation_of_Code_Generator.Properties.Resources.resources
+D:\شهادات كورسات محمد ابو هدهود\Code Generator\simulation of Code Generator\obj\Debug\simulation of Code Generator.csproj.GenerateResource.cache
+D:\شهادات كورسات محمد ابو هدهود\Code Generator\simulation of Code Generator\obj\Debug\simulation of Code Generator.csproj.CoreCompileInputs.cache
+D:\شهادات كورسات محمد ابو هدهود\Code Generator\simulation of Code Generator\obj\Debug\simulati.B0BCB653.Up2Date
+D:\شهادات كورسات محمد ابو هدهود\Code Generator\simulation of Code Generator\obj\Debug\simulation of Code Generator.exe
+D:\شهادات كورسات محمد ابو هدهود\Code Generator\simulation of Code Generator\obj\Debug\simulation of Code Generator.pdb
+D:\شهادات كورسات محمد ابو هدهود\Code Generator\simulation of Code Generator\bin\Debug\SCG_BusinessLayer.dll
+D:\شهادات كورسات محمد ابو هدهود\Code Generator\simulation of Code Generator\bin\Debug\SCG_DataAccessLayer.dll
+D:\شهادات كورسات محمد ابو هدهود\Code Generator\simulation of Code Generator\bin\Debug\SCG_DataAccessLayer.pdb
